@@ -18,6 +18,7 @@
 
 </div>
 
+
 ###
 
 <div align="center">
@@ -35,11 +36,16 @@
 ###
 
 <p align="left">
-I'm AbdElrahman Rabea from Egypt.<br><br>
+I'm Eng. AbdElrahman Rabea from Egypt.<br>
+<br>
 - 🔭 I work on full-stack web applications using React and Supabase<br>
 - 📚 I am currently strengthening my backend development skills with the MERN stack<br>
 - ⚡ In my weekly learning routine, I study data structures and algorithms, solve LeetCode problems, explore machine learning, and build side projects<br>
 </p>
+<be>
+<span align="center"> 
+  ✉️ Reach me at: <a href="mailto:abdelrahman.rabea01@gmail.com">abdelrahman.rabea01@gmail.com</a> 
+</span>
 
 ###
 
